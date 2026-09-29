@@ -36,7 +36,7 @@
 ## Installation
 
 ```
-git clone https://github.com/<your-username>/freelance-tracker.git
+git clone https://github.com/levankorkelia/freelance-tracker.git
 cd freelance-tracker
 pip install -r requirements.txt
 ```
